@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @makuletz17
-- 👀 I’m interested in Programming and Anything to Learn
+- 👀 I’m interested in Web Programming and Anything to Learn
 - 🌱 I’m currently learning API
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me DM me @ judithekuletz.ja@gmail.com
